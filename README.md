@@ -59,7 +59,7 @@ See `SUPPORTED_VERILOG.md` for the qualified RTL subset and scope limits.
 ## Requirements
 
 - Python 3
-- Tkinter
+- Tkinter (included with Python installation)
 - AMD Vivado for integrated verification
 
 Run:
